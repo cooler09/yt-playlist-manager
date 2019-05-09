@@ -1,0 +1,1 @@
+AWS Lambda function that manages playlists within a date range into a destination folder
